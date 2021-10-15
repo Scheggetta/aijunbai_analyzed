@@ -112,5 +112,5 @@ def main(title, style="fivethirtyeight", end_line_extension=True):
 
 
 if __name__ == "__main__":
-    title = "Move action values over aijunbai_analyzed iterations in different states of an Othello game"
+    title = "Move action values over MCTS iterations in different states of an Othello game"
     main(title, end_line_extension=False)
